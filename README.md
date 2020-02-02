@@ -10,9 +10,11 @@ Features
  * Easy Animation - Create animation presets for windows and other UI elements to use in the QUI_ElementAnimator
  * Easy Audio Integration - Use the QUI_ElementAudio component to make it easy for UI sound effects from audio presets
  * Easy Scene Transitions and Scene Loading - Use the QUI_SceneTransition component to create scene transitions and load a scene in 3 different ways: instantly, while showing a loading UI (such as the loading window), or while in a loading scene
+
 Package Requirements:
 -----
  * Text Mesh Pro
+
 Documentation and Support:
 -----
  * Full documentation and examples can be found at [our website](https://quantumtekhub.com/docs/quantumui/).
