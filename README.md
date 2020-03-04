@@ -18,4 +18,4 @@ Package Requirements:
 Documentation and Support:
 -----
  * Full documentation and examples can be found at [our website](https://quantumtekhub.com/docs/quantumui/).
- * Support for this asset can be found at [our Github](https://github.com/QuantumTekSupport/SimpleMenu/issues).
+ * Support for this asset can be found at [our Github](https://github.com/QuantumTekSupport/QuantumUI/issues).
